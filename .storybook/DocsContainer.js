@@ -11,6 +11,8 @@ export const DocsContainer = ({ children, context }) => {
 
     const backgroundColor = theme.appBg;
 
+    console.log("on est là");
+
     return (
         <>
             <style>{`
